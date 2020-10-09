@@ -17,12 +17,11 @@ Neste desafio você deverá criar, utilizando **React**, uma lista de tarefas :s
 ## :heavy_check_mark: Requisitos não funcionais
 
 * As tarefas deverão ser armazenadas no **LocalStorage** do navegador
-
 * Utilizar **Context API** para controlar o estado da aplicação
-
 * Utilizar **Hooks** para controlar o ciclo de vida dos Components.
-
 * Design/Layout livre
+* Utilizar Git, disponibilize a sua solução no github com um readme descrevendo como executar seu projeto :)
+
 
 ## :star2: Diferenciais
 
