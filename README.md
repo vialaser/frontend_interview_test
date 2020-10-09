@@ -1,6 +1,6 @@
 ## Sobre o desafio
 
-Neste desafio você deverá criar, utilizando React, uma lista de tarefas (todo).
+Neste desafio você deverá criar, utilizando **React**, uma lista de tarefas (todo).
 
 
 ## Funcionalidades da aplicação
@@ -16,19 +16,18 @@ Neste desafio você deverá criar, utilizando React, uma lista de tarefas (todo)
 
 ## Requisitos da aplicação
 
-* Deve ser utilizado o React Context API e Hooks.
-
 * As tarefas deverão ser armazenadas no **LocalStorage** do navegador
 
-* Utilizar context para controlar o estado da aplicação
+* Utilizar **Context API** para controlar o estado da aplicação
 
-* Alicar comentários explicando cada função utilizada
+* Utilizar **Hooks** para controlar o ciclo de vida dos Components.
 
 * Design/Layout livre
 
 ## Diferenciais
 
 * Testes unitários
+* Código bem documentado
 
 ## Critérios de avaliação
 
