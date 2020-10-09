@@ -3,7 +3,7 @@
 Neste desafio você deverá criar, utilizando **React**, uma lista de tarefas :scroll:.
 
 
-## Funcionalidades da aplicação
+## Requisitos funcionais
 
 * [x] Listar todas as tarefas
 * [x] Listar as tarefas ainda não concluídas
@@ -14,7 +14,7 @@ Neste desafio você deverá criar, utilizando **React**, uma lista de tarefas :s
 * [x] Excluir tarefa da lista
 * [x] Exibir contadores: total de tarefas, tarefas concluídas e tão concluídas
 
-## :heavy_check_mark: Requisitos da aplicação
+## :heavy_check_mark: Requisitos não funcionais
 
 * As tarefas deverão ser armazenadas no **LocalStorage** do navegador
 
