@@ -1,5 +1,6 @@
 ## Sobre o desafio
-Neste desafio você deverá criar, utilizando React, uma lista de tarefas (todo), onde deverá ser possível:
+
+Neste desafio você deverá criar, utilizando React, uma lista de tarefas (todo).
 
 
 ## Funcionalidades da aplicação
