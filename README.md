@@ -1,20 +1,20 @@
 ## Sobre o desafio
 
-Neste desafio você deverá criar, utilizando **React**, uma lista de tarefas (todo).
+Neste desafio você deverá criar, utilizando **React**, uma lista de tarefas :scroll:.
 
 
 ## Funcionalidades da aplicação
 
-* Listar todas as tarefas
-* Listar as tarefas ainda não concluídas
-* Listar as tarefas já concluídas
-* Marcar determinada tarefa como concluída (Mostrar visualmente que foi concluída)
-* Inserir novas tarefas
-* Alterar a descrição de uma tarefa
-* Excluir tarefa da lista
-* Exibir contadores: total de tarefas, tarefas concluídas e tão concluídas
+* [x] Listar todas as tarefas
+* [x] Listar as tarefas ainda não concluídas
+* [x] Listar as tarefas já concluídas
+* [x] Marcar determinada tarefa como concluída (Mostrar visualmente que foi concluída)
+* [x] Inserir novas tarefas
+* [x] Alterar a descrição de uma tarefa
+* [x] Excluir tarefa da lista
+* [x] Exibir contadores: total de tarefas, tarefas concluídas e tão concluídas
 
-## Requisitos da aplicação
+## :heavy_check_mark: Requisitos da aplicação
 
 * As tarefas deverão ser armazenadas no **LocalStorage** do navegador
 
@@ -24,12 +24,12 @@ Neste desafio você deverá criar, utilizando **React**, uma lista de tarefas (t
 
 * Design/Layout livre
 
-## Diferenciais
+## :star2: Diferenciais
 
 * Testes unitários
 * Código bem documentado
 
-## Critérios de avaliação
+## :green_heart: Critérios de avaliação
 
 * Qualidade de código
 * Organização e estrutura do projeto
