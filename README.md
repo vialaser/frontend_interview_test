@@ -1,9 +1,9 @@
-## Sobre o desafio
+## :vertical_traffic_light: Sobre o desafio
 
 Neste desafio você deverá criar, utilizando **React**, uma lista de tarefas :scroll:.
 
 
-## Requisitos funcionais
+## :heavy_check_mark: Requisitos funcionais
 
 * [x] Listar todas as tarefas
 * [x] Listar as tarefas ainda não concluídas
